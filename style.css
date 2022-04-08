@@ -759,7 +759,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/background.jpg");
+	background-image: url("background.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
