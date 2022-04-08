@@ -1411,6 +1411,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 	
 }
 
+@media screen and (max-width:1199px){
+	.timeline-content span>i, .experience-time span>i {left: -15.5%;}
+}/*max-width:1199px*/
+
 
 
 @media (max-width: 320px){
