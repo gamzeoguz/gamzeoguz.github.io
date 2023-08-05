@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Row, Col } from 'react-bootstrap'
+import { Container, Row } from 'react-bootstrap'
 import html from '../assets/tech/html.png'
 import css from '../assets/tech/css.png'
 import javascript from '../assets/tech/javascript.png'

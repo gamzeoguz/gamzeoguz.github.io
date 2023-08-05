@@ -4,11 +4,6 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { useState, useEffect } from 'react';
 import logo from '../assets/images/logov2.png'
-import icon1 from '../assets/images/social (1)2.png'
-import icon2 from '../assets/images/social2.png'
-import icon3 from '../assets/images/message2.png'
-import ToggleSwitch from './Toggle'
-import toggleTheme from '../App'
 
 function NavBar() {
     const [ activeLink, setActiveLink ] = useState('home')

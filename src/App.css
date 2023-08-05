@@ -8,7 +8,6 @@
 @import url('https://fonts.cdnfonts.com/css/bradley-hand-2?styles=30152');
                 
 :root {
-  --night: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./assets/images/9165619.jpg');
   --day: rgb(174, 232, 251);
 }
 
