@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-position: top center;
+  background-size: contain;
+  background-repeat:repeat-y;
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url('./assets/images/3d-abstract-flow-background1.jpg');
+}
+
+
+body #light {
+  background-position: top center;
+  background-size: contain;
+  background-repeat: repeat-y;
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.01)), url('./assets/images/8666.jpg');
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+  
 }
+
+
