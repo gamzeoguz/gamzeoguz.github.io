@@ -24,7 +24,7 @@ function Projects() {
             </Card>
 
           </Col >
-          <Col xs={12} md={6} xl={5}>
+          <Col xs={3} md={1} xl={5}>
             <img src={projects} alt="Header image" />
           </Col>
       

@@ -99,7 +99,7 @@ function Contact() {/*
             <Col xs={12} md={6} xl={5}>
             <img src={personal} alt="Header image" />
           </Col >
-          <Col xs={12} md={6} xl={5}>
+          <Col xs={5} md={3} xl={5}>
           <Card style={{ width: '18rem', padding: "2%", marginLeft: "30%" }} className='card'>
               <Card.Body>
                 <Card.Title>Address</Card.Title>

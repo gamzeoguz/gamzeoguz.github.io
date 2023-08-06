@@ -22,7 +22,7 @@ function Intro() {
             <p className='typewriter'>I like developing full-stack applications.</p><br></br>
             <a href='https://www.linkedin.com/in/gamzeoguz/'><button className='vvd'><span>Let's Connect</span></button></a>
           </Col >
-          <Col xs={12} md={6} xl={5}>
+          <Col xs={2} md={3} xl={5}>
             <img src={header} alt="Header image" />
           </Col>
         </Row>

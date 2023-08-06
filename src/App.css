@@ -765,3 +765,37 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     transform: rotate(360deg);
   }
 }
+
+
+/**Responsive*/
+
+@media screen and (max-width: 600px) {
+  .projects img, .about img   {
+    width: 350px;
+    height: auto;
+  }
+  .typewriter {
+    white-space: pre-wrap;
+  } 
+  .about, .projects {
+    display: inline;
+  }
+
+  .skills {
+    margin-left: 10%;
+  }
+
+  }
+
+  @media screen and (max-width: 900px) and (min-width: 600px) {
+    .projects img, .about img   {
+      width: 350px;
+      height: auto;
+    }
+    .about, .projects{
+      display: inline;
+    }
+
+ 
+  
+}
