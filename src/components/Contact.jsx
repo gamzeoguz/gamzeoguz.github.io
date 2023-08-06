@@ -111,7 +111,7 @@ function Contact() {/*
                     <div className='social-icon'>
                       <a href='https://www.linkedin.com/in/gamzeoguz/'><img src={icon1} alt="" /></a>
                       <a href='https://github.com/gamzeoguz'><img src={icon2} alt="" /></a>
-                      <a href='mailto:gamzeoguz@marun.edu.tr'><img src={icon3} alt="" /></a>
+                      <a href='mailto:gamzeoguz.swe@gmail.com'><img src={icon3} alt="" /></a>
                     </div>
                 </Card.Text>
               </Card.Body>
