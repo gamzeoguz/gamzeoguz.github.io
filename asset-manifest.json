@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c7e1bbc.css",
-    "main.js": "/static/js/main.20aa0fc3.js",
+    "main.css": "/static/css/main.0ae686a3.css",
+    "main.js": "/static/js/main.32674e3d.js",
     "static/js/787.f8a0dea2.chunk.js": "/static/js/787.f8a0dea2.chunk.js",
     "static/media/3d-abstract-flow-background1.jpg": "/static/media/3d-abstract-flow-background1.f84fdc619321bc70f7dc.jpg",
     "static/media/nolymitlogo.png": "/static/media/nolymitlogo.d2afbefc64a3b627eb96.png",
@@ -19,12 +19,12 @@
     "static/media/java.svg": "/static/media/java.3d1f1777f72c1a4ca3003a5378491322.svg",
     "static/media/python.svg": "/static/media/python.4298525c028749eb4fa154f8f5bd1931.svg",
     "index.html": "/index.html",
-    "main.0c7e1bbc.css.map": "/static/css/main.0c7e1bbc.css.map",
-    "main.20aa0fc3.js.map": "/static/js/main.20aa0fc3.js.map",
+    "main.0ae686a3.css.map": "/static/css/main.0ae686a3.css.map",
+    "main.32674e3d.js.map": "/static/js/main.32674e3d.js.map",
     "787.f8a0dea2.chunk.js.map": "/static/js/787.f8a0dea2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c7e1bbc.css",
-    "static/js/main.20aa0fc3.js"
+    "static/css/main.0ae686a3.css",
+    "static/js/main.32674e3d.js"
   ]
 }
