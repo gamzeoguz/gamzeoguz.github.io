@@ -6,6 +6,7 @@ import NolymitAI from '../assets/companies/nolymitlogo.png'
 import OrionInnovation from '../assets/companies/OI_logo.png'
 import TurkiyeFinans from '../assets/companies/turkiye-finans.png'
 import Kariyernet from '../assets/companies/kariyernet.png'
+import Amadeus from '../assets/companies/amadeus.png'
 
 function Experiences() {
   return (
@@ -15,6 +16,24 @@ function Experiences() {
         <Row className="align-items-center">
           <h1>Work Experiences</h1> 
     <VerticalTimeline>
+      <VerticalTimelineElement
+        className="vertical-timeline-element--work"
+        contentStyle={{ background: 'rgba(53, 149, 230, 0.21)', color: '#fff' }}
+        contentArrowStyle={{ borderRight: '7px solid  rgba(53, 149, 230, 0.21)' }}
+        date="Nov 2023 - Present"
+        iconStyle={{ background: 'rgb(75, 112, 242)', color: '#fff' }}
+        icon = {
+          <div className='divlogo'>
+          <img src={Amadeus} />
+          </div>
+        }
+      >
+        <h3 className="vertical-timeline-element-title">Junior Software Development Engineer, <span>Amadeus</span></h3>
+        <h4 className="vertical-timeline-element-subtitle">Istanbul, Turkiye</h4>
+        <p>
+        
+        </p>
+      </VerticalTimelineElement>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
         contentStyle={{ background: 'rgba(53, 149, 230, 0.21)', color: '#fff' }}
