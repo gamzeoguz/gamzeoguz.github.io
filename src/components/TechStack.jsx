@@ -13,6 +13,7 @@ import redux from '../assets/tech/redux.png'
 import git from '../assets/tech/git.png'
 import java from '../assets/tech/java.svg'
 import python from '../assets/tech/python.svg'
+import plsql from '../assets/tech/plsql.png'
 
 function TechStack() {
   return (
@@ -34,6 +35,7 @@ function TechStack() {
             <img src={git} alt="Git" />
             <img src={java} alt="Java" />
             <img src={python} alt="Python" />
+            <img src={plsql} alt="PL/SQL" />
         </Row>
       </Container>
     </section>
